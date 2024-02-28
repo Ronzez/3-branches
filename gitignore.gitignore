@@ -11,6 +11,7 @@
 *.sln.docstates
 *.DocumentLayout.json
 *.WpfApp4.csproj
+*.vs/WpfApp4/DesignTimeBuild/.dtbcache.v2
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
